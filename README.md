@@ -69,54 +69,12 @@ Rather than simply replicating a website inside a mobile application, the projec
 
 ## ✨ Features
 
-### 👨‍💻 Professional Profile
-
-* Developer introduction
-* Professional summary
-* Technical expertise
-* Career journey
-* Education
-* Certifications and achievements
-
-### 🚀 Project Showcase
-
-* Featured projects
-* Project descriptions
-* Technology stack
-* Project links
-* GitHub repositories
-* Live project demonstrations
-
-### 🧠 Technical Skills
-
-Organized technology categories covering:
-
-* Frontend Development
-* Mobile Development
-* Backend Technologies
-* APIs & Integrations
-* Developer Tools
-* Cloud & Deployment
-
-### 📱 Mobile Experience
-
-* React Native application
-* Cross-platform architecture
-* Responsive layouts
-* Native Android experience
-* Smooth navigation
-* Touch-friendly interactions
-
-### 🔗 External Integrations
-
-The application provides direct access to:
-
-* 🌐 Personal portfolio
-* 💼 LinkedIn
-* 🐙 GitHub
-* 📄 Resume
-* 📱 Google Play
-* 🚀 Live projects
+- 👨‍💻 **Profile** — Experience, skills, education & achievements
+- 🚀 **Projects** — Projects, tech stacks, GitHub & live demos
+- 🧠 **Skills** — Frontend, mobile, backend & REST APIs
+- 📱 **Mobile** — React Native, responsive UI & smooth navigation
+- 🔗 **Integrations** — Firebase, Razorpay, REST APIs & third-party services
+- 🌐 **Links** — Portfolio, LinkedIn, GitHub, Resume & Google Play
 
 ---
 
