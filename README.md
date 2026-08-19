@@ -185,27 +185,6 @@ Navigation, spacing, typography, interactions, and visual hierarchy are designed
 
 ---
 
-## 📂 Project Structure
-
-```text
-.
-├── android/              # Android native configuration
-├── ios/                  # iOS native configuration
-├── src/
-│   ├── assets/           # Images, icons and static resources
-│   ├── components/       # Reusable components
-│   ├── navigation/       # Navigation configuration
-│   ├── screens/          # Application screens
-│   ├── services/         # API and external integrations
-│   └── utils/            # Utility functions
-│
-├── App.js                # Application entry point
-├── package.json          # Dependencies and scripts
-└── README.md
-```
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
