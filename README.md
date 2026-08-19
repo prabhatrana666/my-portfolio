@@ -55,16 +55,6 @@ Rather than simply replicating a website inside a mobile application, the projec
   </a>
 </p>
 
-### 🌍 Web Portfolio
-
-<p align="center">
-  <a href="https://prabhatrana.online/">
-    <img src="https://img.shields.io/badge/🌐%20Open%20Portfolio-prabhatrana.online-0A66C2?style=for-the-badge" alt="Open Portfolio">
-  </a>
-</p>
-
-> **Live Web:** https://prabhatrana.online/
-
 > **Android:** https://play.google.com/store/apps/details?id=com.prabhatrana.portfolio
 
 ---
