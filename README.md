@@ -234,28 +234,6 @@ npm run ios
 
 ---
 
-## 🧪 Development
-
-Start the development server:
-
-```bash
-npm start
-```
-
-Run Android:
-
-```bash
-npm run android
-```
-
-Run iOS:
-
-```bash
-npm run ios
-```
-
----
-
 ## 🔗 Connect
 
 <p align="left">
