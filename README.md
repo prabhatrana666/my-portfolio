@@ -278,21 +278,6 @@ The generated release artifact can then be prepared for distribution through Goo
 
 ---
 
-## 📈 Future Improvements
-
-Potential future enhancements include:
-
-* 🌙 Advanced theme system
-* 🌍 Internationalization
-* 🔔 Push notifications
-* 📊 Portfolio analytics
-* 🧠 AI-powered portfolio assistant
-* 🍎 iOS distribution
-* 🎨 Enhanced animations and micro-interactions
-* 📴 Improved offline experience
-
----
-
 ## 🔗 Connect
 
 <p align="left">
