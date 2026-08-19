@@ -155,48 +155,6 @@ The application provides direct access to:
 
 ---
 
-## 🏗️ Architecture
-
-The application follows a modular, component-driven React Native architecture.
-
-```text
-portfolio-app/
-│
-├── android/
-│   └── Android native project
-│
-├── ios/
-│   └── iOS native project
-│
-├── src/
-│   ├── components/
-│   │   └── Reusable UI components
-│   │
-│   ├── screens/
-│   │   └── Application screens
-│   │
-│   ├── navigation/
-│   │   └── Navigation configuration
-│   │
-│   ├── assets/
-│   │   ├── images/
-│   │   └── icons/
-│   │
-│   ├── services/
-│   │   └── External services / API layer
-│   │
-│   └── utils/
-│       └── Shared utilities
-│
-├── App.js
-├── package.json
-└── README.md
-```
-
-The structure is intentionally designed around **separation of concerns**, reusable components, and maintainability.
-
----
-
 ## ⚡ Engineering Principles
 
 The project follows several engineering principles commonly used in production applications.
