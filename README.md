@@ -71,8 +71,6 @@ Rather than simply replicating a website inside a mobile application, the projec
   <sub>Selected screens from the React Native application.</sub>
 </p>
 
-> 💡 Add your actual screenshots to `assets/screenshots/` and update the filenames above.
-
 ---
 
 ## ✨ Features
