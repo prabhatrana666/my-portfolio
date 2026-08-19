@@ -20,7 +20,6 @@
   <a href="#-overview">Overview</a> •
   <a href="#-live-preview">Live Preview</a> •
   <a href="#-features">Features</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
   <a href="#-getting-started">Getting Started</a>
 </p>
 
@@ -64,10 +63,6 @@ Rather than simply replicating a website inside a mobile application, the projec
   <img src="./assets/screenshots/home.png" width="260" alt="Portfolio Home Screen">
   <img src="./assets/screenshots/projects.png" width="260" alt="Projects Screen">
   <img src="./assets/screenshots/experience.png" width="260" alt="Experience Screen">
-</p>
-
-<p align="center">
-  <sub>Selected screens from the React Native application.</sub>
 </p>
 
 ---
