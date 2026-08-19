@@ -155,36 +155,6 @@ The application provides direct access to:
 
 ---
 
-## ⚡ Engineering Principles
-
-The project follows several engineering principles commonly used in production applications.
-
-### 🧩 Component Reusability
-
-UI elements are structured as reusable components instead of duplicating presentation logic.
-
-### 📐 Responsive Design
-
-Layouts are designed to adapt to different mobile screen sizes and orientations.
-
-### 🧹 Maintainability
-
-Code organization prioritizes readability, modularity, and predictable component behavior.
-
-### ⚡ Performance
-
-The application avoids unnecessary rendering and focuses on efficient UI updates and lightweight interactions.
-
-### 🔒 Secure Integration
-
-External services and application configuration are handled without unnecessarily exposing sensitive information in the client application.
-
-### 🎯 User Experience
-
-Navigation, spacing, typography, interactions, and visual hierarchy are designed around a consistent mobile experience.
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
