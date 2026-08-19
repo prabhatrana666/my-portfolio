@@ -327,7 +327,7 @@ I focus on building **scalable, maintainable, performance-oriented applications*
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:prabhatrana.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-prabhatrana.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 </p>
 
