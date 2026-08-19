@@ -69,7 +69,7 @@ Rather than simply replicating a website inside a mobile application, the projec
 
 ## ✨ Features
 
-- 👨‍💻 **Profile** — Experience, skills, education & achievements
+- 👨‍💻 **Profile** — Experience, skills, projects & achievements
 - 🚀 **Projects** — Projects, tech stacks, GitHub & live demos
 - 🧠 **Skills** — Frontend, mobile, backend & REST APIs
 - 📱 **Mobile** — React Native, responsive UI & smooth navigation
