@@ -29,17 +29,13 @@
 
 **Prabhat Rana Developer Portfolio** is a personal mobile application built with **React Native** to showcase my professional profile, technical expertise, projects, experience, and development journey.
 
-The application is designed with a strong focus on:
+## 📌 Overview
 
-* ⚡ Performance
-* 🧩 Reusable component architecture
-* 📱 Responsive mobile UI
-* 🎨 Consistent design system
-* 🔗 Seamless navigation
-* 🛠️ Maintainable code
-* 🚀 Production-ready development practices
+**Prabhat Rana Developer Portfolio** is a personal mobile application built with **React Native**, designed to showcase my professional experience, technical skills, projects, achievements, and development journey.
 
-Rather than simply replicating a website inside a mobile application, the project is designed as a dedicated mobile experience for exploring my professional portfolio.
+The application focuses on **performance, reusable components, responsive UI, consistent design, seamless navigation, and maintainable code**, following modern mobile development practices.
+
+Rather than simply replicating a website, it provides a dedicated **mobile-first portfolio experience** for exploring my professional work and technical expertise.
 
 ---
 
