@@ -293,27 +293,6 @@ Potential future enhancements include:
 
 ---
 
-## 👨‍💻 About the Developer
-
-**Prabhat Rana** is a Frontend Developer with 1+ year of professional experience building responsive, high-performance, and production-ready applications.
-
-### Primary Technologies
-
-```text
-React.js
-React Native
-JavaScript
-HTML5
-CSS3
-Bootstrap
-REST APIs
-Git & GitHub
-```
-
-I focus on building **scalable, maintainable, performance-oriented applications** with a strong emphasis on user experience and clean architecture.
-
----
-
 ## 🔗 Connect
 
 <p align="left">
