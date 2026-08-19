@@ -256,28 +256,6 @@ npm run ios
 
 ---
 
-## 📦 Production Build
-
-For Android release builds, generate the appropriate release artifact according to the React Native/Gradle configuration.
-
-Example:
-
-```bash
-cd android
-./gradlew bundleRelease
-```
-
-On Windows:
-
-```bash
-cd android
-gradlew.bat bundleRelease
-```
-
-The generated release artifact can then be prepared for distribution through Google Play.
-
----
-
 ## 🔗 Connect
 
 <p align="left">
