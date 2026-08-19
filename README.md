@@ -21,7 +21,6 @@
   <a href="#-live-preview">Live Preview</a> •
   <a href="#-features">Features</a> •
   <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-architecture">Architecture</a> •
   <a href="#-getting-started">Getting Started</a>
 </p>
 
